@@ -6,7 +6,7 @@ Version: 1.0
 
 This package implements the **Coxian Hidden Semi-Markov Models** (CxHSMM) described in the following papers:
 
-Duong, T., Phung, D., Bui, H. and Venkatesh, S, *Efficient Coxian Duration Modelling for Activity Recognition in Smart Environment with the Hidden semi-Markov Model*,  In Second International Conference on Intelligent Sensors, Sensor Networks and Information Processing, Melbourne, 5-6 December 2005.
+Duong, T., Bui, H., Phung, D. and Venkatesh, *Activity Recognition and Abnormality Detection with the Switching Hidden Semi-Markov Model*,  In IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR), pages 838-845, San Diego, 20-26 June 2005.
 
 Duong, T., Phung, D., Bui, H. and Venkatesh, *Efficient duration and hierarchical modeling for human activity recognition,* Artificial Intelligence (AIJ), 173(7-8):830-856, 2009.
 
@@ -14,7 +14,7 @@ Duong, T., Phung, D., Bui, H. and Venkatesh, *Efficient duration and hierarchica
 
 Phung, D., Duong, T., Bui, H. and Venkatesh, *Topic Transition Detection Using Hierarchical Hidden Markov and Semi-Markov Models,  In ACM Int. Conf on Multimedia (ACM-MM), Singapore, 6--11 Nov. 2005.
 
-Duong, T., Bui, H., Phung, D. and Venkatesh, *Activity Recognition and Abnormality Detection with the Switching Hidden Semi-Markov Model*,  In IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR), pages 838-845, San Diego, 20-26 June 2005.
+Duong, T., Phung, D., Bui, H. and Venkatesh, S, *Efficient Coxian Duration Modelling for Activity Recognition in Smart Environment with the Hidden semi-Markov Model*,  In Second International Conference on Intelligent Sensors, Sensor Networks and Information Processing, Melbourne, 5-6 December 2005.
 
 
 **Disclaimer**: We have made our best effort in ensuring fairness in acknowledging existing codes and any materials we used. However, if you have any question/concern, please write to us.
